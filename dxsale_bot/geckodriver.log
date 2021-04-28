@@ -1,0 +1,459 @@
+1619545032057	geckodriver	INFO	Listening on 127.0.0.1:61549
+1619545035280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileCUwvw7"
+1619545042946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1619545101889	geckodriver	INFO	Listening on 127.0.0.1:61610
+1619545104978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileE90703"
+1619545106017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619545116784	Marionette	INFO	Listening on port 61618
+1619545118074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: ""
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+1619545337547	Marionette	INFO	Stopped listening on port 61618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619545339339	geckodriver	INFO	Listening on 127.0.0.1:61918
+1619545342352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofile4DF28X"
+1619545343816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619545349027	Marionette	INFO	Listening on port 61926
+1619545349507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619545607005	Marionette	INFO	Stopped listening on port 61926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619545608072	geckodriver	INFO	Listening on 127.0.0.1:62072
+1619545611028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileHwIPn1"
+1619545613216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619545617590	Marionette	INFO	Listening on port 62080
+1619545617891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 25852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619547217287	Marionette	INFO	Stopped listening on port 62080
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ette enabled
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 5348: TypeError: win is null
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+[Parent 12272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619545751878	geckodriver	INFO	Listening on 127.0.0.1:62248
+1619545754671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileqaVIt3"
+1619545756527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619545761783	Marionette	INFO	Listening on port 62257
+1619545761872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 29888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619545853201	Marionette	INFO	Stopped listening on port 62257
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1619546493240	geckodriver	INFO	Listening on 127.0.0.1:62695
+1619546498156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileWAKWsq"
+1619546502686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1619546517011	Marionette	INFO	Listening on port 62706
+1619546517623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 29940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 29940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619546911127	Marionette	INFO	Stopped listening on port 62706
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619547153074	geckodriver	INFO	Listening on 127.0.0.1:63042
+1619547156132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofile5MAqgf"
+1619547157388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619547163099	Marionette	INFO	Listening on port 63050
+1619547163458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 28492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619548369712	Marionette	INFO	Stopped listening on port 63050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: ""
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619547438504	Marionette	INFO	Stopped listening on port 63235
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619548138545	geckodriver	INFO	Listening on 127.0.0.1:63489
+1619548141461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofiler5OgzO"
+1619548144048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1619548156756	Marionette	INFO	Listening on port 63497
+1619548157867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619548365292	Marionette	INFO	Stopped listening on port 63497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileQvoLaM"
+1619548350376	Marionette	INFO	Marionette enabled
+1619548363818	geckodriver	INFO	Listening on 127.0.0.1:63638
+1619548367339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileTu1dJa"
+1619548371626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619548381682	Marionette	INFO	Listening on port 63648
+1619548382367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+1619549716131	Marionette	INFO	Stopped listening on port 63648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619550706210	geckodriver	INFO	Listening on 127.0.0.1:64411
+1619550710617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofilem5deGJ"
+1619550719607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619550750616	Marionette	INFO	Listening on port 64419
+1619550757706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 25412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619550970076	Marionette	INFO	Stopped listening on port 64419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619561128969	geckodriver	INFO	Listening on 127.0.0.1:51245
+1619561132312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofilekk9kUS"
+1619561138521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561165865	Marionette	INFO	Listening on port 51256
+1619561168417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+1619561193566	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 15620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619561366427	Marionette	INFO	Stopped listening on port 51256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619561316941	Marionette	INFO	Stopped listening on port 51535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619561367111	geckodriver	INFO	Listening on 127.0.0.1:51801
+1619561370125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileItsyoV"
+1619561372245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561377456	Marionette	INFO	Listening on port 51812
+1619561377913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+[Parent 13976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619561609023	Marionette	INFO	Stopped listening on port 51812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619561612254	geckodriver	INFO	Listening on 127.0.0.1:52302
+1619561615244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileArCcKl"
+1619561616006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561620599	Marionette	INFO	Listening on port 52317
+1619561620805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619561843503	Marionette	INFO	Stopped listening on port 52317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileuAyLYb"
+1619561681898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561690854	Marionette	INFO	Listening on port 52454
+1619561691024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+[Parent 30988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619561837349	Marionette	INFO	Stopped listening on port 52454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561749899	Marionette	INFO	Listening on port 52642
+1619561750009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+1619561777855	geckodriver	INFO	Listening on 127.0.0.1:52737
+1619561780857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofilekzjrPP"
+1619561783093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561788595	Marionette	INFO	Listening on port 52748
+1619561789116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1619561841151	Marionette	INFO	Stopped listening on port 52748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619561870852	geckodriver	INFO	Listening on 127.0.0.1:52940
+1619561873874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileJgAyEL"
+1619561874874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619561879803	Marionette	INFO	Listening on port 52950
+1619561879949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://dxsale.app/vendor.a89fd54545f8981b6a7b.chunk.js, line 1: Error: Invalid JSON RPC response: "Too Many Requests"
+[Parent 22356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619562011709	Marionette	INFO	Stopped listening on port 52950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
